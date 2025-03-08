@@ -1,5 +1,5 @@
 # usePDR
-* 
+* 부동산 데이터 분석 - 공공 데이터 조회
 
 # use PDR  Install
 ```powershell
@@ -27,3 +27,4 @@ INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
 
 # Refer 
 * https://github.com/WooilJeong/PublicDataReader
+  공공 데이터 조회를 위한 오픈소스 파이썬 라이브러리
