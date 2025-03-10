@@ -15,10 +15,10 @@ winget install python.python.3.13
 #Poetry (version 2.1.1)
 
 # install package 
-> poetry install
+poetry install
 
 # start server
-> poetry run shiny run app.py
+poetry run shiny run app.py
 
 INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
 # broser open http://127.0.0.1:8000
