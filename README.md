@@ -1,7 +1,7 @@
 # usePDR
 * 부동산 데이터 분석 - 공공 데이터 조회
 
-# use PDR  Install
+# use PDR Install
 ```powershell
 # git clone 
 git clone https://github.com/slackmodel/usePDR.git
